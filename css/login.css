@@ -1,0 +1,17 @@
+/*login*/
+
+.login{width:1263px;height:588px;background:url(../images/login.jpg) no-repeat -328px 0;background-size:cover;position:relative;margin:0 auto;}
+.loginfor{width:402px;height:370px;position:absolute;top:102px;left:703px;}
+.freereg{display:block;margin:14px 0 0 330px;font-size:12px;color:#db3962;}
+.telnumber,.pwd{width:158px;height:20px;display:block;margin-left:152px;border:none;border:0;font-size:14px;line-height:20px;color:#9b9b9b;}
+.telnumber{margin-top:50px;}
+.pwd{margin-top:34px;}
+.chooselog{width:278px;height:14px;font-size:12px;color:#222;margin-top:30px;margin-left:60px;}
+.chooselog span{padding-right:134px;}
+.memberlog{width:277px;height:32px;background:url(../images/memberlog.png) repeat-x;font-size:14px;color:#fff;margin:18px 0 0 60px;cursor:pointer;}
+.third-party{width:400px;height:66px;margin-top:60px;text-align:center;}
+.third-party img{vertical-align:middle;}
+
+.checktel,.checkpwd{position:absolute;font-size:12px;color:#db3962;width:220px;height:18px;display:none;}
+.checktel{left:150px;top:110px;}
+.checkpwd{left:150px;top:166px;}

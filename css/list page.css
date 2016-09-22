@@ -1,0 +1,90 @@
+.clearfix{
+    *zoom: 1; /* IE 触发 haslayout , 放大 1 倍，与原始大小不变*/
+    *height: 1px; /* 同 zoom:1; 效果一样，触发 haslayout  */
+}
+			
+.clearfix:after{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden
+}
+
+/*jietuo*/
+.jietuo{width:1263px;height:194px;background:#f3f3f3;clear:both;}
+.jietuo img{display:block;margin:0 auto;}
+
+/*dingzhi*/
+.dingzhi{width:1263px;height:24px;line-height:24px;background:#fff;}
+.dingzhi span{display:block;margin-left:42px;}
+.dingzhi span a{font-size:12px;padding:0 10px;color:#222;}
+.dingzhi span a:hover{color:#db3962;}
+
+/*goodslist*/
+.goodslist{width:1263px;height:2337px;}
+.goodslist .left{margin-left:40px;margin-bottom:20px;}
+.goodslist .right{margin-right:42px;}
+
+
+
+.goodssort{border:1px solid #cecece;}
+.goodssort h2{width:230px;height:24px;background:url(../images/goodssort.png) repeat-x;padding:10px 0 0 10px;font-size:12px;font-weight:bold;color:#222;}
+.goodssort h3{width:202px;height:46px;line-height:46px;margin:0 auto;clear:both;}
+.goodssort h3 a{font-size:12px;font-weight:bold;color:#222;padding-left:10px;}
+.goodssort h3 a:hover{color:#db3962;}
+.goodssort .fontred a{color:#f00;}
+
+.dmenu{border-top:1px dashed #cecece;border-bottom:1px dashed #cecece;background:#fafafa;width:202px;margin:5px auto;display:none;}
+.dmenushow{display:block;}
+.dmenu a{font-size:12px;display:block;width:81px;color:#222;height:30px;line-height:30px;float:left;padding-left:20px;}
+.dmenu a:hover{color:#db3962;}
+
+
+
+
+
+
+
+
+
+.hotrecommend{width:240px;height:610px;border:1px solid #cecece;}
+.hotrecommend h2{width:230px;height:25px;background:url(../images/goodssort.png) repeat-x;padding:10px 0 0 10px;font-size:12px;font-weight:bold;color:#222;}
+.hotrecommend dl{width:240px;height:275px;text-align:center;}
+.hotrecommend .mart{margin-top:19px;}
+.hotrecommend dl img{border:1px solid #cecece;}
+.hotrecommend dl dd{height:30px;line-height:30px;font-size:12px;color:#222;}
+.hotrecommend dl dd a:hover{color:#db3962;}
+.hotrecommend dl dd i{color:#db3962;}
+
+
+.pic{width:242px;height:562px;border:1px solid #cecece;}
+.pic img{width:240px;display:block;border:1px solid #cecece;}
+.pic .martb{margin:10px 0;}
+
+
+.category{width:920px;height:183px;border:1px solid #cecece;}
+.category ul{width:906px;height:163px;margin:10px auto;font-size:12px;}
+.category li{height:40px;line-height:40px;border-bottom:1px dashed #cecece;}
+.category li a{color:#222;padding:0 16px;}
+.category li span{color:#db3962;padding-left:10px;padding-right:30px;}
+.category li a:hover{color:#db3962;}
+.category li i{padding-left:202px;}
+
+
+
+.goods{width:922px;height:2209px;margin-bottom:30px;}
+.page{width:922px;height:57px;background:#fff;}
+.anxu{width:920px;height:35px;border:1px solid #cecece;margin-bottom:20px;background:url(../images/anxu.png) repeat-x;}
+.goodsshow{width:921px;height:2036px;border-left:1px solid #cecece;border-top:1px solid #cecece;background:#fff;}
+.goodsshow div{width:306px;height:290px;border-right:1px solid #cecece;border-bottom:1px solid #cecece;float:left;text-align:center;}
+.goodsshow div img{margin-top:6px;}
+.goodsshow div a{display:block;width:306px;font-size:14px;color:#222;height:40px;line-height:40px;}
+.goodsshow div a:hover{color:#db3962;}
+.goodsshow div p{width:306px;font-size:12px;color:#222;height:40px;line-height:40px;background:#f8f8f8;}
+.goodsshow .org{display:inline-block;width:156px;height:40px;text-align:left;padding-left:12px;text-decoration:line-through;}
+.goodsshow .cur{display:inline-block;width:126px;height:40px;text-align:left;padding-left:12px;color:#db3962;}
+
+
+
+

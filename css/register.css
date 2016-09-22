@@ -1,0 +1,30 @@
+/*register*/
+.register{width:1263px;height:606px;background:url(../images/reg.jpg) no-repeat -328px 0;background-size:cover;position:relative;margin:0 auto;}
+.reginfor{width:400px;height:516px;position:absolute;top:66px;left:690px;}
+.memberlog{display:block;margin:14px 0 0 330px;font-size:12px;color:#db3962;}
+.reginfor input{display:block;border:none;border:0;width:158px;height:20px;font-size:14px;line-height:20px;color:#9b9b9b;}
+
+.telnumber{margin:48px 0 0 148px;}
+.reginfor .code{width:84px;margin:32px 0 0 148px;}
+.contcode{display:block;width:66px;height:36px;position:absolute;left:235px;top:123px;background:url(../images/codebg.png);}
+.changeanother{display:block;width:46px;height:36px;line-height:36px;background:#fdfdfd;font-size:12px;color:#db3962;position:absolute;left:300px;top:123px;}
+
+.reginfor .msg{width:76px;margin:34px 0 0 148px;}
+.catchcode{width:66px;height:36px;line-height:36px;color:#222;font-size:12px;position:absolute;left:250px;top:176px;}
+
+.pwd1{margin:34px 0 0 148px;}
+.pwd2{margin:34px 0 0 148px;}
+
+.reginfor  .choosereg input{display:inline-block;width:12px;height:12px;vertical-align:middle;}
+.choosereg{width:278px;height:12px;font-size:12px;color:#222;margin-top:30px;margin-left:60px;}
+.choosereg a:hover{color:#db3962;}
+.reginfor .memberreg{width:277px;height:32px;background:url(../images/memberlog.png) repeat-x;font-size:14px;color:#fff;margin:18px 0 0 60px;cursor:pointer;}
+.third-party{width:400px;height:66px;margin-top:40px;text-align:center;}
+.third-party img{vertical-align:middle;}
+
+.checktel,.checkpwd1,.checkpwd2,.checkcode,.checkmsg{position:absolute;font-size:12px;color:#db3962;width:220px;height:18px;display:none;}
+.checktel{left:150px;top:106px;}
+.checkcode{left:150px;top:160px;}
+.checkmsg{left:150px;top:214px;}
+.checkpwd1{left:150px;top:266px;}
+.checkpwd2{left:150px;top:324px;}

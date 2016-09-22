@@ -1,0 +1,101 @@
+
+/*banner*/
+.banner{width:1290px;height:420px;margin:0 auto;position:relative;overflow:hidden;clear:both;}
+.show img{width:1920px;height:420px;display:block;float:left;opacity:0.1;filter:alpha(opacity=10);margin-left:-330px;}/*ie8透明度兼容问题*/
+
+
+.banner span{display:block;width:15px;height:15px;background:#656565;border-radius:50%;font-size:12px;color:#656565;cursor:pointer;position:absolute;top:382px;text-align:center;line-height:15px;}
+#span1{margin-left:-30px;left:50%;}
+#span2{margin-left:0px;left:50%;}
+#span3{margin-left:30px;left:50%;}
+
+/*main*/
+.main{width:1263px;height:246px;margin:0 auto;overflow:hidden;clear:both;}
+.main a{display:block;float:left;border:1px solid #ddd;height:208px;margin-top:18px;color:#222;font-size:12px;text-align:center;}
+.main dt{margin-top:4px;}
+.mainl{width:318px;margin-left:42px;} 
+.mainc{width:508px;margin:0 15px;}
+.mainr{width:318px;}
+.main a:hover{color:#db3962;}
+
+/*choose*/
+.choose{width:1180px;height:159px;border:1px solid #ddd;margin-top:18px;background:#f9f9f9;margin:0 auto;overflow:hidden;clear:both;}
+.choose .choose1{display:block;margin:20px 0 0 15px;float:left;}
+.choose2{width:519px;height:77px;margin:20px 0 0 20px;float:left;font-size:12px;color:#646464;background:url(../images/choose2.jpg) no-repeat;}
+/*石重*/
+.dweight{margin-left:46px;width:166px;height:31px;line-height:31px;}
+.dweight input{width:42px;height:19px;border:1px solid #abadb3;margin:0 7px;}
+.dweight i{padding-right:4px;}
+.dweight b{padding-left:-1px;color:#222;}
+/*颜色*/
+.dcolor{margin-left:58px;width:249px;height:31px;}
+.dcolor img{display:block;float:left;margin:4px 2px 0px 4px;}
+/*抛光*/
+.dpolishing{margin-left:47px;width:165px;height:31px;margin-top:15px;}
+.dpolishing img{display:block;float:left;margin:4px 0 0px 6px;}
+/*净度*/
+.dclarity{margin-left:58px;width:249px;height:31px;margin-top:15px;margin-bottom:9px;}
+.dclarity img{display:block;float:left;margin:4px 0px 0px 6px;}
+/*裸钻搜索*/
+.dsearch{display:block;margin-left:353px;}
+
+/*content1*/
+.content1{width:1178px;height:427px;border:1px solid #dcdcdc;margin:18px auto;overflow:hidden;clear:both;}
+.content1 div{margin-top:6px;}
+.cont1{width:309px;height:413px;margin-left:7px;}
+.cont1 .more{width:308px;height:169px;display:block;}
+.cont1price{width:308px;height:236px;background:#f9f9f9;margin-top:8px;}
+.cont1price span a{display:block;line-height:24px;color:#222;font-size:12px;margin-left:22px;}
+.cont1price span a:hover{color:#db3962;}
+.goodsname{margin-top:8px;height:126px;display:block;}
+.price{display:block;}
+
+.cont2{width:254px;height:413px;margin-left:7px;}
+
+.cont3{width:597px;height:421px;}
+.cont3 img{display:block;float:left;margin-left:5px;margin-bottom:6px;}
+
+/*design*/
+.design{width:1180px;height:116px;margin:0 auto;}
+.design img{display:block;float:left;}
+.design .marl14{margin-left:14px;}
+.design .marl7{margin-left:7px;}
+
+/*content2*/
+.content2{width:1178px;height:427px;border:1px solid #dcdcdc;margin:18px auto;overflow:hidden;clear:both;}
+.content2 div{margin-top:6px;}
+
+/*content3*/
+.content3{width:1178px;height:427px;border:1px solid #dcdcdc;margin:0 auto 18px;overflow:hidden;clear:both;}
+.content3 div{margin-top:6px;}
+
+/*design1*/
+/*同design*/
+
+/*content4*/
+.content4{width:1178px;height:427px;border:1px solid #dcdcdc;margin:18px auto;overflow:hidden;clear:both;}
+.content4 div{margin-top:6px;}
+
+/*content5*/
+.content5{width:1178px;height:427px;border:1px solid #dcdcdc;margin:0 auto;overflow:hidden;clear:both;}
+.content5 div{margin-top:6px;}
+
+/*information*/
+.information{width:1180px;height:290px;margin:18px auto 34px;clear:both;overflow:hidden;}
+.infor{width:320px;height:288px;border:1px solid #e3e3e3;margin-right:10px;}
+.infor h3{width:305px;height:33px;background:url(../images/bg11.jpg) repeat-x;font-size:12px;font-weight:bold;line-height:33px;padding-left:15px;}
+.pic{width:184px;height:290px;background:url(../images/pic.jpg) no-repeat;}
+.infor h3 a{color:#000;}
+.infor h3 a:hover{color:#db3962;}
+.infor img{display:block;margin:5px 0 0 5px;}
+.infor ul{width:320px;height:134px;margin-top:10px;}
+.infor ul li{height:27px;line-height:27px;padding-left:12px;}
+.infor ul li a{font-size:12px;color:#222;padding-left:4px;}
+.infor ul li a:hover{color:#db3962;}
+
+
+
+
+
+
+

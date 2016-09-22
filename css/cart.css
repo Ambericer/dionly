@@ -1,0 +1,14 @@
+.all{background:#fef1ef;}
+.white{background:#fff;clear:both;}
+
+/*cartslider*/
+.cartslider{width:1263px;height:328px;background:#fff;margin:0 auto;}
+.morehot{width:1180px;height:66px;margin:0 auto;background:url(../images/morehot.png) no-repeat 0 20px;}
+.recommend{width:1178px;height:239px;border:1px solid #dedede;margin:0 auto;}
+.recommend 
+dl{float:left;width:180px;height:239px;font-size:12px;color:#222;margin-top:12px;}
+.recommend dl img{width:186px;}
+.recommend .left{margin:98px 0 0 34px;}
+.recommend .right{margin:98px 34px 0 0;}
+.recommend a:hover{color:#C11E20;}
+
